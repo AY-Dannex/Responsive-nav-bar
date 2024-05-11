@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: "Poppins", sans-serif;
 }
 
 body{
@@ -140,7 +140,7 @@ body{
 
     .navbar a{
         display: block;
-        font-size: 14px;
+        font-size: 15px;
         margin: 1.5rem 0;
         text-align: center;
         transform: translateY(-50px);
